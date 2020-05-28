@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4053
+D Triple analog Multiplexer 2 to 1 line
+K CMOS MUX MUX2
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf
+$ENDCMP
+#
+$CMP 74AHC244_copy
+D 8-bit Buffer/Line Driver 3-state
+K AHCMOS BUFFER 3State
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf
+$ENDCMP
+#
+$CMP 74AHCT244_copy
+D 8-bit Buffer/Line Driver 3-state
+K AHCTMOS BUFFER 3State
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf
+$ENDCMP
+#
+$CMP 74HC244_multi
+D 8-bit Buffer/Line Driver 3-state
+K HCMOS BUFFER 3State
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP 74HCT244_copy
+D 8-bit Buffer/Line Driver 3-state
+K HCTMOS BUFFER 3State
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP SNES_PLUG
+D Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP SW_DPDT_x4
+D Switch, dual pole double throw, separate symbols
+K switch dual-pole double-throw DPDT spdt ON-ON
+F ~
+$ENDCMP
+#
+#End Doc Library
